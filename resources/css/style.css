@@ -1,5 +1,5 @@
 html{
-  background-color: coral;
+  background-color: navy;
   font-family: Helvetica, sans-serif;
 }
 
@@ -8,4 +8,13 @@ h1{
   border: 3px dotted SeaGreen;
   color: white;
   padding: 10px 20px;
+}
+
+li{
+  list-style-type: none;
+  padding: 10px;
+}
+
+li a{
+  border: 5px solid white;
 }
