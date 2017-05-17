@@ -10,11 +10,11 @@ h1{
   padding: 10px 20px;
 }
 
-li{
+.projects li{
   list-style-type: none;
   padding: 10px;
 }
 
-li a{
+.projects li a{
   border: 5px solid white;
 }
