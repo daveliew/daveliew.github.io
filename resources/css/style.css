@@ -1,20 +1,22 @@
 html{
-  background-color: navy;
+  background-color: #001f3f;
   font-family: Helvetica, sans-serif;
+  text-align: center;
 }
 
 h1{
-  text-align: center;
   border: 3px dotted SeaGreen;
   color: white;
   padding: 10px 20px;
 }
 
-.projects li{
+.projects ul{
   list-style-type: none;
   padding: 10px;
 }
 
-.projects li a{
-  border: 5px solid white;
+.projects a{
+  border: 1px solid white;
+  padding: 10px;
+  text-decoration: none;
 }
