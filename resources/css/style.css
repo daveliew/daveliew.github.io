@@ -1,5 +1,5 @@
 html{
-  background-color: #001f3f;
+  background-color: black;
   font-family: Helvetica, sans-serif;
   text-align: center;
 }
@@ -8,15 +8,24 @@ h1{
   border: 3px dotted SeaGreen;
   color: white;
   padding: 10px 20px;
+  margin: 50px;
 }
 
-.projects ul{
+img{
+  height: 500px;
+  width: 800px;
+  margin: 30px;
+}
+.projects li{
   list-style-type: none;
+  margin: 20px;
   padding: 10px;
 }
 
 .projects a{
-  border: 1px solid white;
-  padding: 10px;
+  color: white;
+  border: 1px dotted lightgrey;
   text-decoration: none;
+  padding: 10px;
+  margin: 5px;
 }
