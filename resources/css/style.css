@@ -1,0 +1,10 @@
+html{
+  background-color: coral;
+  font-family: Helvetica, sans-serif;
+}
+
+h1{
+  text-align: center;
+  border: 3px dotted SeaGreen;
+  color: white;
+}
